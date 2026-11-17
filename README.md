@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220063
+# Name:Mirudhula N
+# Date:17.11.2026
 
 
 # AIM:
@@ -49,6 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1255" height="910" alt="Screenshot 2026-10-13 142019" src="https://github.com/user-attachments/assets/ccf5fc07-6d25-49b1-a4e1-cf28e671ec7b" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1333" height="895" alt="Screenshot 2026-10-27 143012" src="https://github.com/user-attachments/assets/da960caf-fbbf-44ed-bfe1-8718b6d65e3f" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -107,6 +109,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1240" height="897" alt="Screenshot 2026-10-16 123354" src="https://github.com/user-attachments/assets/02c31668-4e8f-40a7-9a24-e99e2b4fe7cf" />
 
 
 
@@ -127,6 +130,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1350" height="901" alt="Screenshot 2026-11-02 103222" src="https://github.com/user-attachments/assets/58949e94-e0ae-41fd-bcf0-222121f24ba8" />
 
 
 
